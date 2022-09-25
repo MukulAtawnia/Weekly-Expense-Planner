@@ -1,4 +1,4 @@
 Indian Expense Planner
 
 Weekly Expense Planner
--Mukul Atawnia
+- By Mukul Atawnia
